@@ -43,15 +43,6 @@ DOMAIN,c.tieba.baidu.com,IP
 DOMAIN,httpdns.baidu.com,IP
 DOMAIN,httpdns.baidubce.com,IP
  
-# ======= 知乎 ======= #
-#DOMAIN,zhihu-web-analytics.zhihu.com,IP
-#DOMAIN,www.zhihu.com,IP
-#DOMAIN,api.zhihu.com,IP
-DOMAIN-SUFFIX,zhihu.com,IP
-IP-CIDR,103.41.167.0/24,IP
-IP-CIDR,118.89.204.198/23,REJECT
-IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/40,REJECT
-
 # ======= 酷安 ======= #
 DOMAIN,api.coolapk.com,IP
 
