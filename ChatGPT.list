@@ -6,6 +6,14 @@ DOMAIN-SUFFIX, hcaptcha.com
 DOMAIN-SUFFIX, akamaized.com
 DOMAIN, cdn.auth0.com
 DOMAIN, openaiapi-site.azureedge.net
+
+DOMAIN-KEYWORD,openai
+DOMAIN,data.flurry.com
+
+host-keyword, openai, OpenAI
+host-suffix , identrust.com, OpenAI
+host-suffix , auth0.com, OpenAI
+
 # DOMAIN-SUFFIX, googleapis.com
 # DOMAIN-SUFFIX, gstatic.com
 # DOMAIN-SUFFIX, googletagmanager.com
